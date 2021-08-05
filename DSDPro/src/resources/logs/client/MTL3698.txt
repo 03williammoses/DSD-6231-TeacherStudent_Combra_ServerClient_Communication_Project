@@ -1,0 +1,8 @@
+Jun 13, 2021 7:52:19 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 7:49:33 PM distributedSystem.client.ManagerClient addLog
+INFO: 
+Jun 13, 2021 7:49:33 PM distributedSystem.client.ManagerClient main
+INFO: MTL3698 user has successfully logged in
+
+Jun 13, 2021 7:52:19 PM distributedSystem.client.ManagerClient main
+INFO: MTL3698 user has successfully logged in

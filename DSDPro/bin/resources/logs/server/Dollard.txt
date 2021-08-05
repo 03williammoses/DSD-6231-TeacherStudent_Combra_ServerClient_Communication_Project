@@ -1,0 +1,228 @@
+Jul 04, 2021 11:12:39 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 10:44:16 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 10:27:43 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:54:32 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:46:32 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:34:04 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:31:13 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:26:27 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:10:37 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:07:15 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:01:41 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:30:08 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:20:57 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:12:20 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 04, 2021 9:01:37 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 11:45:06 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 11:41:35 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 11:40:05 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 10:29:21 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 10:10:40 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 10:02:59 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:59:25 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:43:55 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:43:40 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:00:51 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 8:42:28 PM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:58:56 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:58:13 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:49:53 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:47:46 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:45:43 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 02, 2021 9:15:56 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 01, 2021 10:05:23 AM distributedSystem.server.DollardServer addLog
+INFO: Jul 01, 2021 9:13:48 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 9:26:35 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:54:47 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:52:38 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:50:36 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:48:46 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:40:55 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:39:21 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:35:22 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:30:04 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 14, 2021 8:13:39 AM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 10:23:45 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 10:10:32 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 10:08:50 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 9:56:02 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 9:51:56 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 9:39:04 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 9:37:11 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 8:08:28 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 7:55:46 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 7:51:02 PM distributedSystem.server.DollardServer addLog
+INFO: Jun 13, 2021 7:49:09 PM distributedSystem.server.DollardServer addLog
+INFO: 
+Jun 13, 2021 7:49:09 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 7:51:02 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 7:55:46 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 8:08:28 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 9:37:11 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 9:39:04 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 9:51:56 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 9:56:02 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 10:08:50 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 10:10:32 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 13, 2021 10:23:45 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:13:39 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:30:04 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:35:23 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:39:21 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:40:55 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:48:46 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:50:36 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:52:38 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 8:54:47 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jun 14, 2021 9:26:35 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 01, 2021 9:13:48 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 01, 2021 10:05:23 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:15:56 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:45:43 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:47:46 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:49:53 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:58:13 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:58:56 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 8:42:28 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:00:51 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:43:40 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:43:55 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 9:59:25 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 10:02:59 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 10:10:40 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 10:29:21 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 11:40:05 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 11:41:35 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 02, 2021 11:45:06 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:01:37 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:12:20 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+Jul 04, 2021 9:13:11 AM distributedSystem.server.DollardServer createTRecord
+INFO: Teacher record is created in Dollard-des-Ormeaux
+
+Jul 04, 2021 9:20:57 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:30:08 AM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+Jul 04, 2021 10:01:14 AM distributedSystem.server.DollardServer createTRecord
+INFO: Teacher record is created in Dollard-des-Ormeaux
+
+Jul 04, 2021 9:01:41 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:07:15 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:10:37 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:26:27 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:31:13 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:34:04 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:46:32 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 9:54:32 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 10:27:43 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+
+Jul 04, 2021 10:44:16 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started
+Jul 04, 2021 10:45:04 PM distributedSystem.server.LavalServer transferRecord
+INFO: Teacher record ID:TR10003 has been transfered to Dollard Server Successfully from Laval
+Jul 04, 2021 10:52:57 PM distributedSystem.server.MontrealServer transferRecord
+INFO: Teacher record ID:TR10001 has been transfered to Dollard Server Successfully from Montreal
+
+Jul 04, 2021 11:12:39 PM distributedSystem.server.DollardServer serverConnection
+INFO: Dollard-des-Ormeaux Server Started

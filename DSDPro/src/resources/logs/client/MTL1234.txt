@@ -1,0 +1,174 @@
+Jul 18, 2021 11:05:34 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:41:45 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:40:53 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:38:22 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:09:56 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:08:21 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:02:46 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 10:01:48 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 9:59:24 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 7:38:53 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 7:35:30 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 2:59:38 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 2:04:38 PM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 1:50:55 AM distributedSystem.client.ManagerClient addLog
+INFO: Jul 18, 2021 1:48:06 AM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 10:24:01 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 10:10:45 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 10:09:06 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:56:12 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:52:06 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:39:19 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 8:08:36 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 7:51:10 PM distributedSystem.client.ManagerClient addLog
+INFO: 
+Jun 13, 2021 7:51:10 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 7:53:16 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+
+Jun 13, 2021 8:08:36 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 8:08:57 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jun 13, 2021 8:09:39 PM distributedSystem.client.ManagerClient main
+INFO: 123 Name does not purely contains alphabets
+Jun 13, 2021 8:10:34 PM distributedSystem.client.ManagerClient main
+INFO: Student record is created in Montreal
+
+Jun 13, 2021 9:39:19 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 9:39:45 PM distributedSystem.client.ManagerClient main
+INFO: null
+Jun 13, 2021 9:41:42 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:42:07 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+
+Jun 13, 2021 9:52:06 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 9:52:08 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:53:43 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+
+Jun 13, 2021 9:56:12 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 9:56:15 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:57:40 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:58:11 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:59:11 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 9:59:27 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jun 13, 2021 9:59:33 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 1, , 
+
+Jun 13, 2021 10:09:06 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 10:09:18 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jun 13, 2021 10:09:21 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 1, , 
+
+Jun 13, 2021 10:10:45 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 10:10:50 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, , 
+Jun 13, 2021 10:11:02 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jun 13, 2021 10:11:11 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 1, , 
+
+Jun 13, 2021 10:24:01 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jun 13, 2021 10:24:03 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 1, , 
+Jun 13, 2021 10:24:15 PM distributedSystem.client.ManagerClient main
+INFO: Program Terminated!!
+
+Jul 18, 2021 1:48:06 AM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+
+Jul 18, 2021 1:50:55 AM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 1:50:56 AM distributedSystem.client.ManagerClient main
+INFO: MTL : 3, LVL : 1, DDO : 1
+Jul 18, 2021 1:51:10 AM distributedSystem.client.ManagerClient main
+INFO: 11324567897 Phone number should contain 10 digits. Give number again!!
+Jul 18, 2021 1:51:18 AM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jul 18, 2021 1:51:20 AM distributedSystem.client.ManagerClient main
+INFO: MTL : 4, LVL : 1, DDO : 1
+
+Jul 18, 2021 2:04:38 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 2:05:11 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 3, LVL : 1, DDO : 1
+
+Jul 18, 2021 2:59:38 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+
+Jul 18, 2021 7:35:30 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 7:35:32 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 3, LVL : 1, DDO : 1
+
+Jul 18, 2021 7:38:53 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 7:39:17 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Montreal
+Jul 18, 2021 7:39:21 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 4, LVL : 1, DDO : 1
+
+Jul 18, 2021 9:59:24 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 9:59:26 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:01:48 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:01:50 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:02:46 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:02:49 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:08:21 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:08:22 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:09:56 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:09:57 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:38:22 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:38:25 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+Jul 18, 2021 10:39:03 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:39:04 PM distributedSystem.client.ManagerClient main
+INFO: Invalid Choice
+
+Jul 18, 2021 10:40:53 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:40:55 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 10:41:45 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 10:41:48 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 0, LVL : 0, DDO : 0
+
+Jul 18, 2021 11:05:34 PM distributedSystem.client.ManagerClient main
+INFO: MTL1234 user has successfully logged in
+Jul 18, 2021 11:05:35 PM distributedSystem.client.ManagerClient main
+INFO: MTL : 3, LVL : 1, DDO : 1

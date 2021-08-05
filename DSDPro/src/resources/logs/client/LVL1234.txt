@@ -1,0 +1,40 @@
+Jul 18, 2021 11:05:50 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 10:11:16 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 10:09:27 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:59:47 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:53:52 PM distributedSystem.client.ManagerClient addLog
+INFO: Jun 13, 2021 9:42:27 PM distributedSystem.client.ManagerClient addLog
+INFO: 
+Jun 13, 2021 9:42:27 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jun 13, 2021 9:42:42 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Laval
+
+Jun 13, 2021 9:53:52 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jun 13, 2021 9:54:03 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Laval
+Jun 13, 2021 9:54:05 PM distributedSystem.client.ManagerClient main
+INFO: LVL : 1, , 
+
+Jun 13, 2021 9:59:48 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jun 13, 2021 10:00:30 PM distributedSystem.client.ManagerClient main
+INFO: LVL : 0, , 
+
+Jun 13, 2021 10:09:27 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jun 13, 2021 10:09:29 PM distributedSystem.client.ManagerClient main
+INFO: LVL : 0, , 
+
+Jun 13, 2021 10:11:16 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jun 13, 2021 10:11:38 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Laval
+Jun 13, 2021 10:11:42 PM distributedSystem.client.ManagerClient main
+INFO: LVL : 1, , 
+
+Jul 18, 2021 11:05:50 PM distributedSystem.client.ManagerClient main
+INFO: LVL1234 user has successfully logged in
+Jul 18, 2021 11:05:52 PM distributedSystem.client.ManagerClient main
+INFO: LVL : 3, MTL : 1, DDO : 1

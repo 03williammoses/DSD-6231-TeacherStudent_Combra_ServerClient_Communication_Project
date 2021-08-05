@@ -1,0 +1,8 @@
+Jun 13, 2021 9:42:47 PM distributedSystem.client.ManagerClient addLog
+INFO: 
+Jun 13, 2021 9:42:47 PM distributedSystem.client.ManagerClient main
+INFO: DDO1234 user has successfully logged in
+Jun 13, 2021 9:43:02 PM distributedSystem.client.ManagerClient main
+INFO: Teacher record is created in Dollard-des-Ormeaux
+Jun 13, 2021 9:43:07 PM distributedSystem.client.ManagerClient main
+INFO: DDO : 1, , 
